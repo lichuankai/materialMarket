@@ -1,0 +1,14 @@
+{
+  "name": "materialMarket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lichuankai/materialMarket.git",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^7.4.1"
+  },
+  "workspaces": [
+    "packages/*"
+ ]
+}
